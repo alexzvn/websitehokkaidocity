@@ -36,7 +36,7 @@
                         <div class="col-md-3 col-sm-3">
                             <div class="logo">
                                 <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                                    <img src="img/logo/logo.png" alt="">
+                                    <img src="/img/logo/logo.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -45,11 +45,11 @@
                                 <div class="collapse navbar-collapse" id="navbar-example">
                                     <div class="main-menu">
                                         <ul class="nav navbar-nav navbar-right">
-                                        <li><a href="paypal.me/quochuycrow">Ủng hộ Thành Phố</a></li>
+                                        <li><a href="https://paypal.me/quochuycrow">Ủng hộ Thành Phố</a></li>
                                         <li><a href="http://hokkaidocity.online/xephang/">Bảng xếp hạng người giàu</a></li>
-                                            <li><a href="https://discord.gg/8euHRhwDUg">Cộng đồng Discord</a></li>
-                                            <li><a href="fivem://connect/15.235.128.46:30120">Tham gia vào SERVER</a></li>
-                                            <li><a href="https://www.facebook.com/tranquochuymatfbroi/">Liên hệ Admin</a></li>
+                                        <li><a href="https://discord.gg/8euHRhwDUg">Cộng đồng Discord</a></li>
+                                        <li><a href="fivem://connect/15.235.128.46:30120">Tham gia vào SERVER</a></li>
+                                        <li><a href="https://www.facebook.com/tranquochuymatfbroi/">Liên hệ Admin</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -68,7 +68,7 @@
                                 </div>
                                 <nav id="dropdown">
                                     <ul>
-                                    <li><a href="paypal.me/quochuycrow">Ủng hộ Thành Phố</a></li>
+                                    <li><a href="https://paypal.me/quochuycrow">Ủng hộ Thành Phố</a></li>
                                     <li><a href="http://hokkaidocity.online/xephang/">Bảng xếp hạng người giàu</a></li>
                                     <li><a href="https://discord.gg/8euHRhwDUg">Cộng đồng Discord</a></li>
                                             <li><a href="fivem://connect/15.235.128.46:30120">Tham gia vào SERVER</a></li>
