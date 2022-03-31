@@ -45,6 +45,8 @@
                                 <div class="collapse navbar-collapse" id="navbar-example">
                                     <div class="main-menu">
                                         <ul class="nav navbar-nav navbar-right">
+                                        <li><a href="paypal.me/quochuycrow">Ủng hộ Thành Phố</a></li>
+                                        <li><a href="http://hokkaidocity.online/xephang/">Bảng xếp hạng người giàu</a></li>
                                             <li><a href="https://discord.gg/8euHRhwDUg">Cộng đồng Discord</a></li>
                                             <li><a href="fivem://connect/15.235.128.46:30120">Tham gia vào SERVER</a></li>
                                             <li><a href="https://www.facebook.com/tranquochuymatfbroi/">Liên hệ Admin</a></li>
@@ -66,6 +68,8 @@
                                 </div>
                                 <nav id="dropdown">
                                     <ul>
+                                    <li><a href="paypal.me/quochuycrow">Ủng hộ Thành Phố</a></li>
+                                    <li><a href="http://hokkaidocity.online/xephang/">Bảng xếp hạng người giàu</a></li>
                                     <li><a href="https://discord.gg/8euHRhwDUg">Cộng đồng Discord</a></li>
                                             <li><a href="fivem://connect/15.235.128.46:30120">Tham gia vào SERVER</a></li>
                                             <li><a href="https://www.facebook.com/tranquochuymatfbroi/">Liên hệ Admin</a></li>
