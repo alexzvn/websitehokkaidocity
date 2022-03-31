@@ -1,0 +1,15 @@
+{
+    "name": "alexzvn/websitehokkaidocity",
+    "autoload": {
+        "psr-4": {
+            "Alexzvn\\Websitehokkaidocity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexzvn",
+            "email": "alex.vn.9991@gmail.com"
+        }
+    ],
+    "require": {}
+}
