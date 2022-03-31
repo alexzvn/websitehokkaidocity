@@ -36,7 +36,7 @@
                         <div class="col-md-3 col-sm-3">
                             <div class="logo">
                                 <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                                    <img src="/img/logo/logo.png" alt="">
+                                    <img src="/img/logo/LOGO.png" alt="">
                                 </a>
                             </div>
                         </div>
