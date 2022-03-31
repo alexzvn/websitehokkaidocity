@@ -31,12 +31,12 @@
         <div id="preloader"></div>
         <header class="header-one">
             <div id="sticker" class="header-area hidden-xs">
-                <div class="container">
+                <div class="" style="max-width: 90%;margin: auto;">
                     <div class="row">
                         <div class="col-md-3 col-sm-3">
                             <div class="logo">
                                 <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                                    <img src="/img/logo/LOGO.png" alt="">
+                                    <img src="/img/logo/LOGO.png" alt="" style="max-height: 10rem;position: absolute;top: -5px;">
                                 </a>
                             </div>
                         </div>
